@@ -42,6 +42,13 @@ git clone https://github.com/Gogzzzs/tic-tac-toe-js.git
 
 # Open the project folder and run index.html in any browser
 
+```bash
+# Clone the repository
+git clone https://github.com/Gogzzzs/tic-tac-toe-js.git
+
+# Open the project folder and run index.html in any browser
+```
+
 ---
 
 # 🎮 Jogo da Velha — Vanilla JS
